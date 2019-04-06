@@ -3,8 +3,8 @@
 Assumptions :
     ~ Predefined roles : admin, analyst, editor (case sensitive)
     ~ Predefined actionTypes: read , write , delete
-    ~ access rights : admin - read write delete
-                      analyst - read
+    ~ access rights : admin - read write delete |
+                      analyst - read |
                       editor - read, write
                       
                       
